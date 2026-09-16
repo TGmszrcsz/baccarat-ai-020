@@ -6,6 +6,12 @@
 
 整理日期：2026-09-17　｜　专题方向：历史统计
 
+<!-- article-chain:start -->
+
+> 系列导航：[全部文章目录](https://github.com/TGmszrcsz/baccarat-ai-index) ｜ [上一篇：第 019 篇 - 百家乐Ai预测分析工具：小样本中的大幅波动应怎样描述](https://github.com/TGmszrcsz/baccarat-ai-019) ｜ [下一篇：第 021 篇 - 百家乐Ai预测分析工具：历史频率与模型输出需要两套解释](https://github.com/TGmszrcsz/baccarat-ai-021)
+
+<!-- article-chain:end -->
+
 分房间看占比变化一致，合并结果却不同。本篇围绕“分组统计与总体统计为什么可能相反”展开，结合现有界面示例，说明判断依据、核对顺序和需要保留的记录。
 
 ## 一、从页面现象追到实际含义
